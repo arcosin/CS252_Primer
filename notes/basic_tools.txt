@@ -1,0 +1,56 @@
+
+SSH (Unix):
+  - ssh [username]@[hostname]
+  - ssh [username]@[hostname] -p [port (22)]
+  - ssh [purdue_login]@data.cs.purdue.edu
+
+
+SSH (Windows):
+  - Putty
+    - https://www.putty.org/
+
+
+Remote file managers:
+  - WinSCP
+    - https://winscp.net/eng/docs/guides
+  - Filezilla
+    - https://www.ostraining.com/blog/webdesign/filezilla-beginner/
+  - Some file explorers (not windows).
+
+
+Editors:
+  - Nano -- super basic CL file editor.
+  - Vim -- more advanced CL file editor.
+    - https://vim-adventures.com/
+    - https://www.linux.com/training-tutorials/vim-101-beginners-guide-vim/
+    - https://medium.com/swlh/8-vim-tricks-that-will-take-you-from-beginner-to-expert-817ff4870245
+  - VSCode -- Full GUI-based IDE.
+  - Atom -- Extensible GUI-based editor.
+    - https://flight-manual.atom.io/
+  - Others (Notepad++, Sublime, Emacs, etc)
+
+
+Basic compiling tools:
+  - gcc -- compile c code.
+  - g++ -- compile c++ code.
+  - make -- runs a makefile.
+
+
+Unix tools:
+  - Cat, head, tail, Chmod .
+  - Diff, vimdiff.
+
+
+Debugging:
+  - Gdb, tui, ddd
+    - Flag -g.
+    - Next, step, break, continue, _, list, print, run [args], delete, quit.
+    - Break with filename:function, filename:linenum.
+  - Advanced gdb
+    - Set follow-fork-mode child.
+    - Set follow-fork-mode parent.
+    - https://youtu.be/aypNWcRlwYw.
+    - Break foo if i == 4.
+    - Record, reverse-next, reverse-step, reverse-continue.
+    - https://sourceware.org/gdb/current/onlinedocs/gdb/Process-Record-and-Replay.html.
+

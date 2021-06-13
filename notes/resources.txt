@@ -1,0 +1,10 @@
+
+CS252 Resources:
+  - Man pages / www.man7.org / www.linux.die.net
+  - www.Cplusplus.com / www.cppreference.com
+  - www.Regexr.com
+  - www.draw.io
+  - www.geeksforgeeks.org
+  - www.stackoverflow.com
+  - https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/
+  - https://www.youtube.com/channel/UCy8D0y8DJ7brIjDE37JlpXw
